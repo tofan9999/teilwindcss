@@ -813,6 +813,7 @@ Dummy ipsum dolor sit amet, consectetur adipiscing elit
               <div className="bg-black max-md:text-sx w-full max-md:px-5 max-md:py-3 rounded-full text-white max-md:flex max-md:justify-start font-['sora']"><button>Work with us</button></div>
               <div><button>Join the team</button></div>
             </div>
+            <div></div>
             <div>
               <div className="bg-black max-md:text-sx w-full text-white max-md:px-5 max-md:py-3 rounded-full max-md:flex max-md:justify-start font-['sora']"><button>Work with us</button></div>
               <div><button>Join the team</button></div>
